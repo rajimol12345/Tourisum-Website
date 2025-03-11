@@ -40,6 +40,9 @@
 body, html{
     overflow-x: hidden;
 }
+p{
+   font-size: 23px;
+}
 
 header{
     width: 100vw;
